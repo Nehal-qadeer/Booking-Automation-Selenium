@@ -19,13 +19,3 @@ This project provides a professional-grade web scraping solution for extracting 
 * **Browser Driver:** ChromeDriver / GeckoDriver
 * **Data Handling:** Pandas (if applicable for CSV export)
 
-## 📂 Repository Structure
-* `main.py`: The core automation engine and scraper logic.
-* `packages.py`: Handles environment setup and necessary library imports.
-* `README.md`: Project documentation.
-
-## ⚙️ Quick Start
-1. **Prerequisites:** Ensure you have Chrome/Firefox and the corresponding WebDriver installed.
-2. **Install Dependencies:**
-   ```bash
-   pip install selenium
